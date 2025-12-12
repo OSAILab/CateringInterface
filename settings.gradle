@@ -1,0 +1,3 @@
+rootProject.name = "cateringdemo"
+include ':app'
+include ':CateringInterface'
